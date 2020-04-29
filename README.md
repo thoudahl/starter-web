@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 Please fork this repository and the issue Pull Requests 
-for review
+for review.
 
 ### Copyright
 
