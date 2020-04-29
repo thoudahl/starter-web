@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Christian Thoudahl	christian@thoudahl.com	None
 
 # THANKS
 
